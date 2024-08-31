@@ -85,7 +85,11 @@ Then **[Upload](https://github.com/SilvaTechB/silva-md-bot/tree/main/Authenticat
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-#### DEPLOY TO HEROKU 
+#### DEPLOYMENT
+
+
+<details>
+<summary>CLICK HERE FOR DEPLOYMENT PROCESSS</summary>
 
 1. If You don't have a account in Heroku. Create a account.
     <br>
@@ -118,6 +122,7 @@ Then **[Upload](https://github.com/SilvaTechB/silva-md-bot/tree/main/Authenticat
 2. Now Deploy
     <br>
 <a href='https://railway.app/template/q20OfH?referralCode=b9IKyc' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=railway&logoColor=white'/></a>
+</details>
 
 For help visit [Github wiki](https://github.com/SilvaTechB/silva-md-bot/wiki)
 
@@ -143,6 +148,8 @@ For help visit [Github wiki](https://github.com/SilvaTechB/silva-md-bot/wiki)
 
 ---
 ## THANKS TO OUR TEAM :
+<details>
+<summary>CLICK HERE </summary>
 
 <a href="https://github.com/shizothetechie"><img src="https://github.com/shizothetechie.png?size=100" width="130" height="100"></a> | [<img src="https://github.com/xei-sensei.png?size=100" width="100" height="100">](https://github.com/xei-sensei) 
 ---|---
@@ -156,7 +163,7 @@ Maintainer | Silva Team|
 ---|---
 [LAZACK](https://github.com/Lazack28)  | [FG98F](https://github.com/FG98F)
 Maintainer | FG98F|
-
+</details>
 
 
 
